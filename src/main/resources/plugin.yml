@@ -1,0 +1,4 @@
+name: AttractItems
+version: '1.0.0'
+main: jp.reitou_mugicha.attractitems.AttractItems
+api-version: '1.21'
